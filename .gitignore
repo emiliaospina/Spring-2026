@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# Conda
+miniconda3/
+miniforge3/
+
+# VS Code
+.vscode/
+
+# Data / outputs
+data/
+outputs/
